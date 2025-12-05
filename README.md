@@ -10,3 +10,5 @@ Multiple versions are available:
 6.0 – 6.2 – Beta: Latest features, currently in beta testing. Less stable, intended for advanced users who want to try new functionality early.
 
 CrimsonGX focuses on providing a fast and optimized browsing experience with a gamer-friendly interface and tools for managing tabs, AdBlock, and JavaScript settings.
+
+Made by Daniil_core and my AI- Steve-500m 
